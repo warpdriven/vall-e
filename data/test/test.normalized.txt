@@ -1,1 +1,13 @@
-hello world
+Natural Language Processing (NLP) enables computers to understand, interpret and manipulate natural language.
+It enables machines to interact with human language in its written or spoken form,
+allowing computers to process and make use of the vast amount of natural language data available in the world today.
+By analysing the syntax, semantics and context of a given sentence,
+NLP technology helps machines to accurately interpret and respond to a wide range of user input and requests.
+With the continued advances in NLP algorithms, machines are increasingly able to understand and respond to natural language,
+making them increasingly useful for a wide variety of everyday tasks.
+GPT stands for Generative Pre-trained Transformer.
+It is a deep learning-based language model developed by OpenAI.
+It is trained on massive amounts of text data and is capable of generating human-like text in response to prompts.
+ChatGPT is a variation of the GPT language model, specifically designed for conversational AI.
+It is trained on a dataset of conversational text and is designed to generate contextually relevant and coherent responses in a chat-like setting.
+ChatGPT is optimised for conversational AI use cases, whereas the original GPT is designed for a wider range of NLP tasks.
